@@ -1,0 +1,94 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #fffaf8;
+  color: #25356e;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 64px 24px;
+}
+
+.eyebrow {
+  color: #f15a35;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+}
+
+h1 {
+  margin: 12px 0;
+  font-size: 48px;
+}
+
+h2 {
+  color: #25356e;
+}
+
+.intro {
+  max-width: 600px;
+  color: #5b678d;
+  font-size: 18px;
+}
+
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-top: 40px;
+}
+
+.card {
+  background: white;
+  border: 1px solid #d9dceb;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.card p {
+  color: #5b678d;
+  margin: 0 0 14px;
+}
+
+.card h2 {
+  font-size: 38px;
+  margin: 0;
+}
+
+.recommendation {
+  margin-top: 32px;
+  padding: 28px;
+  background: #25356e;
+  border-radius: 12px;
+  color: white;
+}
+
+.recommendation .eyebrow {
+  color: #ff9a7a;
+  margin-top: 0;
+}
+
+.recommendation h2 {
+  color: white;
+  margin-bottom: 0;
+}
+
+.issues-section {
+  margin-top: 48px;
+}
+
+@media (max-width: 700px) {
+  .metrics {
+    grid-template-columns: 1fr;
+  }
+
+  h1 {
+    font-size: 36px;
+  }
+}
