@@ -4,7 +4,8 @@ const path = require("path");
 const csv = require("csv-parser");
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
+const DATA_FILE = process.env.DATA_FILE || "feedback_records.csv";
 
 function isResolved(value) {
   const cleanedValue = value?.trim().toLowerCase();
@@ -65,11 +66,11 @@ function getIssue(message) {
 app.use(express.static(path.join(__dirname, "public")));
 
 // Reads the feedback CSV and sends it to the frontend.
-app.get("/api/feedback", (req, res) => {
+/* app.get("/api/feedback", (req, res) => {
   const feedback = [];
 
   fs.createReadStream(
-    path.join(__dirname, "data", "feedback_records.csv")
+    path.join(__dirname, "data", DATA_FILE)
   )
     .pipe(csv())
     .on("data", (row) => {
@@ -78,13 +79,13 @@ app.get("/api/feedback", (req, res) => {
     .on("end", () => {
       res.json(feedback);
     });
-});
+}); */
 
 app.get("/api/summary", (req, res) => {
   const feedback = [];
 
   fs.createReadStream(
-    path.join(__dirname, "data", "feedback_records.csv")
+  path.join(__dirname, "data", DATA_FILE)
   )
     .pipe(csv())
     .on("data", (row) => {

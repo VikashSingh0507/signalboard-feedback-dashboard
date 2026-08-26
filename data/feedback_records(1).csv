@@ -1,0 +1,413 @@
+record_id,submitted_at,channel,user_email,plan_tier,region,message,rating,resolved,assigned_to
+FB-2170,24 Jun 2026,chat,greg.rossi@fig.studio,free,LATAM,Need a GST invoice with our company details on it.,2,YES,
+FB-2334,2026-05-01 23:35:00,phone,dev.alvarez@brightlab.io,free,latam,Special characters in names show up as question marks. Notifications fire twice for every comment.,two,1,alex.r
+FB-2288,2026-02-22T05:55:00Z,Chat,amara.dubois at acmeco.com,Enterprise,,Dashboard takes 30+ seconds to load every morning. Search is unusably slow since the last update.,2,0,jo.m
+FB-2250,05/04/2026,chat,tomas.chen@northfield.org,PRO,NA,No idea what half these settings do. Docs are thin.,3,0,alex.r
+FB-2289,2026-03-09T17:49:00Z,Email,hannah.chen@kestrel.dev,PRO,NA,Deleted item reappears after refresh.,2,no,priya.k
+FB-2127,12 Jun 2026,support-form,fatima.sharma@opalhealth.com,Enterprise,APAC,Honestly the best tool we've adopted this year. Team loves it.,five,YES,jo.m
+FB-2112,02 Mar 2026,in-app,omar.bauer@zenith-partners.com,free,IN,Support got back to me in 10 minutes. Impressive.,4,1,alex.r
+FB-2259,12/02/2026,,priya.chen@zenith-partners.com,Enterprise,NA,Third outage this quarter. Leadership is asking questions.,1,no,jo.m
+FB-2018,11 Apr 2026,Chat,kenji.chen@opalhealth.com,enterprise,North America,Page keeps crashing on Safari specifically.,2,0,priya.k
+FB-2087,05 Jul 2026,support-form,,pro,APAC,Can't find where to download past invoices for accounting.,2,no,
+FB-2287,16/06/2026,in-app,kenji.okoro@meridiangroup.co,Pro,LATAM,If the export issue isn't fixed by renewal we're moving on.,,FALSE,
+FB-2008,26/06/2026,in_app,sam.patel@vantage.works,pro,North America,Need a GST invoice with our company details on it.,3,1,alex.r
+FB-2208,1782619560,in_app,rahul.chen@acmeco.com,FREE,apac,Password reset link expired before it even arrived.,1,TRUE,alex.r
+FB-2263,07-04-2026 13:43,,viktor.sharma@brightlab.io,free,India,Need role-based permissions before we can roll this out wider.,2,No,jo.m
+FB-2164,28 Mar 2026,Email,mei.dubois@tidewater.io,Enterprise,apac,Can't find where to download past invoices for accounting.,1/5,No,
+FB-2092,04-28-2026 09:46,Email,priya.alvarez@northfield.org,Enterprise,apac,Would be great to schedule reports weekly instead of manual.,4,,priya.k
+FB-2216,2026-04-03 02:42:00,In-App,yuki.bauer@northfield.org,enterprise,,,1,No,ALEX.R
+FB-2356,2026-07-22T12:22:00Z,,ines.sharma@vantage.works,pro,EMEA,Search is unusably slow since the last update.,2,yes,
+FB-2253,05 Jun 2026,email,mei.singh@brightlab.io,FREE,North America,Special characters in names show up as question marks.,3,yes,priya.k
+FB-2210,2026-06-08 23:50:00,In-App,tomas.chen@northfield.org,enterprise,IN,Why did the price go up without any notice?,1,TRUE,sam.t
+FB-2322,2026-02-05 15:57:00,support-form,zara.okoro@meridiangroup.co,FREE,EMEA,Need role-based permissions before we can roll this out wider.,4,no,ALEX.R
+FB-2168,06-05-2026 01:38,In-App,priya.khan@acmeco.com,Starter,IN,The setup wizard skipped a step and now nothing is connected.,2,YES,alex.r
+FB-2390,2026-06-13 07:43:00,,rahul.larsen@meridiangroup.co,PRO,apac,"Please add a dark mode, my eyes are dying.",4,1,alex.r
+FB-2365,31 May 2026,Chat,sam.haddad@fig.studio,Enterprise,North America,Took us three days to get the first integration working.,3,0,alex.r
+FB-2086,05-25-2026 08:33,,ines.chen@meridiangroup.co,starter,IN,Spent an hour trying to figure out how to invite my team.,2,No,
+FB-2017,2026-06-14 20:39:00,,viktor.muller@zenith-partners.com,Enterprise,EMEA,If the export issue isn't fixed by renewal we're moving on.,1,,sam.t
+FB-2277,04 Feb 2026,Email,zara.sharma@zenith-partners.com,FREE,India,"Onboarding emails came in the wrong order, confusing.",4,No,
+FB-2328,2026-02-27T22:32:00Z,support-form,theo.costa@zenith-partners.com,free,EMEA,,2/5,yes,
+FB-2149,24 Apr 2026,email,sofia.okoro@opalhealth.com,enterprise,APAC,Any plans for a Slack integration?,3,1,
+FB-2007,21/07/2026,,fatima.kim@meridiangroup.co,pro,LATAM,Support got back to me in 10 minutes. Impressive.,5,,sam.t
+FB-2258,02-25-2026 06:14,support-form,zara.bauer@meridiangroup.co,Starter,latam,Would be great to schedule reports weekly instead of manual.,3,No,jo.m
+FB-2017,2026-06-14 20:39:00,,viktor.muller@zenith-partners.com,Enterprise,EMEA,If the export issue isn't fixed by renewal we're moving on.,1,,sam.t
+FB-2065,03-31-2026 21:47,In-App,noah.silva@vantage.works,starter,India,Switched from a competitor and haven't looked back.,4,FALSE,ALEX.R
+FB-2212,2026-07-08T20:49:00Z,Chat,marcus.ito@zenith-partners.com,Enterprise,emea,Notifications fire twice for every comment.,3,,
+FB-2319,06-15-2026 21:20,Chat,theo.alvarez@tidewater.io,PRO,India,Would be great to schedule reports weekly instead of manual.,2,TRUE,priya.k
+FB-2244,05-20-2026 00:14,chat,zara.varga@fig.studio,Starter,emea,The setup wizard skipped a step and now nothing is connected.,3,TRUE,priya.k
+FB-2262,15 May 2026,email,ines.rossi@tidewater.io,FREE,,Dashboard takes 30+ seconds to load every morning.,,1,
+FB-2206,2026-03-03T17:13:00Z,Email,mei.varga@northfield.org,pro,emea,We need bulk edit. Doing this one by one is painful.,,0,ALEX.R
+FB-2093,07-14-2026 18:06,Email,noah.haddad@northfield.org,Enterprise,latam,Page keeps crashing on Safari specifically.,2,TRUE,sam.t
+FB-2184,21 Jun 2026,In-App,sofia.okoro@tidewater.io,Free,EMEA,Would be great to schedule reports weekly instead of manual.,3,0,unassigned
+FB-2362,2026-02-21T02:52:00Z,In-App,viktor.khan@tidewater.io,free,emea,"Uploading a large file just spins forever, no error.",1/5,,alex.r
+FB-2333,08 May 2026,in-app,noah.patel@fig.studio,Enterprise,APAC,"Please add a dark mode, my eyes are dying.",3,0,unassigned
+FB-2159,2026-07-22T15:18:00Z,Chat,rahul.okoro@opalhealth.com,Pro,latam,Special characters in names show up as question marks.,2,,sam.t
+FB-2389,14 Jun 2026,support-form,viktor.haddad@kestrel.dev,Starter,latam,"Timezone is wrong on all timestamps, showing UTC not local.",3,YES,jo.m
+FB-2044,2026-06-21T01:10:00Z,Email,olu.khan@acmeco.com,starter,LATAM,CSV export has a trailing empty column that breaks our import.,2/5,0,
+FB-2314,05-14-2026 19:06,Email,aisha.patel@kestrel.dev,enterprise,EMEA,An API would unlock a lot for us.,4,1,priya.k
+FB-2190,14 Mar 2026,In-App,nadia.chen@kestrel.dev,Free,IN,Invoice shows the old plan price even after we upgraded.,two,FALSE,
+FB-2198,12 Apr 2026,support-form,hannah.sharma@opalhealth.com,PRO,NA,Dashboard takes 30+ seconds to load every morning.,2,0,alex.r
+FB-2239,13 Jul 2026,Chat,sam.varga@fig.studio,Enterprise,IN,"Got charged twice this month, still waiting on the refund.",3,1,
+FB-2075,06-06-2026 04:05,,kenji.chen@meridiangroup.co,Starter,APAC,Need a GST invoice with our company details on it.,3,yes,priya.k
+FB-2331,06-02-2026 09:02,support-form,sam.chen@opalhealth.com,enterprise,North America,TOOK US THREE DAYS TO GET THE FIRST INTEGRATION WORKING.,,YES,priya.k
+FB-2182,26 Mar 2026,Chat,nadia.dubois@fig.studio,pro,apac,"Onboarding emails came in the wrong order, confusing.",3,,
+FB-2232,2026-02-04 16:16:00,Chat,amara.singh@brightlab.io,free,NA,Took us three days to get the first integration working.,4,0,priya.k
+FB-2248,19/03/2026,,omar.patel@zenith-partners.com,Pro,North America,CANCELLED. TOO EXPENSIVE FOR WHAT WE ACTUALLY USE.,,,
+FB-2230,05-18-2026 19:39,in-app,omar.mensah@brightlab.io,enterprise,IN,Can't find where to download past invoices for accounting.,3,FALSE,ALEX.R
+FB-2172,28 Jun 2026,in-app,mei.haddad@opalhealth.com,starter,EMEA,No idea what half these settings do. Docs are thin.,3,YES,
+FB-2252,31/05/2026,support-form,hannah.larsen@acmeco.com,starter,India,The annual discount didn't apply at checkout.,2,FALSE,priya.k
+FB-2069,16 May 2026,,olu.mensah@kestrel.dev,Enterprise,IN,"Would love a template library, starting from blank is rough.",3,0,
+FB-2304,2026-06-19T22:08:00Z,,omar.kim@tidewater.io,starter,North America,Need a GST invoice with our company details on it.,,0,priya.k
+FB-2175,05 Feb 2026,in-app,aisha.muller@tidewater.io,Free,,Why did the price go up without any notice?,2,No,
+FB-2010,2026-02-21T04:25:00Z,,kenji.dubois@brightlab.io,free,emea,Invoice shows the old plan price even after we upgraded.,2,yes,ALEX.R
+FB-2146,09 Jul 2026,Email,viktor.alvarez@fig.studio,pro,IN,Deleted item reappears after refresh.,2,YES,priya.k
+FB-2035,,phone,tomas.singh@opalhealth.com,PRO,LATAM,We need bulk edit. Doing this one by one is painful.,,no,
+FB-2130,2026-04-02T08:46:00Z,,noah.novak@vantage.works,Free,LATAM,Switched from a competitor and haven't looked back.,5,YES,
+FB-2395,06-07-2026 21:53,Chat,marcus.okoro@northfield.org,PRO,NA,We need bulk edit. Doing this one by one is painful.,3,,unassigned
+FB-2298,19/02/2026,support-form,yuki.patel@zenith-partners.com,Starter,India,Deleted item reappears after refresh. Notifications fire twice for every comment.,2/5,,jo.m
+FB-2022,07-03-2026 02:10,In-App,arjun.ito@meridiangroup.co,Starter,,An API would unlock a lot for us.,2,,alex.r
+FB-2343,,In-App,sam.larsen@tidewater.io,Free,NA,No idea what half these settings do. Docs are thin.,4,YES,ALEX.R
+FB-2181,09 Jun 2026,,maya.okoro@kestrel.dev,Free,India,We need bulk edit. Doing this one by one is painful.,4,YES,jo.m
+FB-2369,15 Feb 2026,chat,marcus.singh@brightlab.io,Free,EMEA,The annual discount didn't apply at checkout.,1/5,0,unassigned
+FB-2162,2026-03-13 00:26:00,Email,rahul.bauer@zenith-partners.com,pro,,App freezes when I filter by more than two tags.,1,,
+FB-2354,16/05/2026,In-App,sam.rossi@brightlab.io,FREE,IN,Support got back to me in 10 minutes. Impressive.,4,no,
+FB-2110,2026-03-03 20:41:00,support-form,priya.muller@brightlab.io,FREE,EMEA,Password reset link expired before it even arrived.,2,TRUE,sam.t
+FB-2222,04-22-2026 01:28,email,daniel.singh@zenith-partners.com,FREE,emea,,2,no,
+FB-2327,06-26-2026 05:52,chat,daniel.bauer@kestrel.dev,Starter,North America,Search is unusably slow since the last update.,,yes,alex.r
+FB-2020,02 Jul 2026,In-App,yuki.ito@meridiangroup.co,Starter,EMEA,Support got back to me in 10 minutes. Impressive.,5,No,
+FB-2295,2026-04-03T00:19:00Z,Chat,kenji.silva@vantage.works,pro,,Honestly the best tool we've adopted this year. Team loves it.,5,TRUE,alex.r
+FB-2273,20 Apr 2026,in-app,aisha.muller@fig.studio,Pro,,The annual discount didn't apply at checkout.,2,0,
+FB-2078,2026-07-04T08:26:00Z,in_app,theo.sharma@brightlab.io,free,IN,Would be great to schedule reports weekly instead of manual.,2,YES,ALEX.R
+FB-2131,2026-02-08T01:44:00Z,phone,dev.sharma@brightlab.io,pro,North America,Need role-based permissions before we can roll this out wider.,2,TRUE,unassigned
+FB-2384,2026-04-13T11:37:00Z,,amara.dubois@vantage.works,PRO,APAC,Any plans for a Slack integration?,3,1,sam.t
+FB-2382,06-27-2026 01:33,in-app,sam.dubois@tidewater.io,enterprise,apac,No idea what half these settings do. Docs are thin.,3,0,ALEX.R
+FB-2074,25/04/2026,in-app,daniel.muller@brightlab.io,Starter,latam,SPENT AN HOUR TRYING TO FIGURE OUT HOW TO INVITE MY TEAM.,3,yes,
+FB-2246,2026-04-09T02:50:00Z,email,noah.haddad@opalhealth.com,Free,apac,Any plans for a Slack integration?,3,0,priya.k
+FB-2219,2026-03-15T21:15:00Z,Email,omar.bauer@acmeco.com,Free,IN,Page keeps crashing on Safari specifically.,two,yes,unassigned
+FB-2034,14/06/2026,Chat,aisha.kim@zenith-partners.com,PRO,EMEA,"Uploading a large file just spins forever, no error.",2,FALSE,ALEX.R
+FB-2013,2026-06-16 05:16:00,support-form,rahul.sharma@vantage.works,free,IN,"Would love a template library, starting from blank is rough.",,No,unassigned
+FB-2077,11 May 2026,phone,greg.chen@northfield.org,Free,latam,An API would unlock a lot for us.,3,yes,priya.k
+FB-2004,21/03/2026,in-app,kenji.chen@northfield.org,Starter,latam,"Would love a template library, starting from blank is rough.",4,YES,unassigned
+FB-2144,2026-07-27 20:41:00,,omar.khan@acmeco.com,FREE,APAC,,,FALSE,jo.m
+FB-2011,07-15-2026 16:58,Chat,RAHUL.DUBOIS@KESTREL.DEV,pro,IN,Need a GST invoice with our company details on it.,3,1,unassigned
+FB-2375,05-26-2026 08:16,In-App,tomas.larsen@meridiangroup.co,Free,latam,An API would unlock a lot for us.,3,FALSE,alex.r
+FB-2302,2026-07-10 02:12:00,phone,tomas.dubois@vantage.works,FREE,APAC,Would be great to schedule reports weekly instead of manual.,2,yes,priya.k
+FB-2002,2026-02-09T10:56:00Z,chat,sofia.costa@brightlab.io,Enterprise,North America,Page keeps crashing on Safari specifically.,three,yes,ALEX.R
+FB-2056,08 Apr 2026,Email,marcus.larsen@tidewater.io,starter,India,Export times out whenever we select more than 3 months.,3,No,
+FB-2236,03-14-2026 19:38,in_app,greg.okoro@meridiangroup.co,enterprise,EMEA,CSV export has a trailing empty column that breaks our import.,2,FALSE,ALEX.R
+FB-2151,2026-07-18T09:56:00Z,phone,dev.muller@acmeco.com,Pro,EMEA,Special characters in names show up as question marks.,1,YES,
+FB-2255,06/06/2026,chat,bea.mensah@acmeco.com,free,IN,"Simple, fast, does the job. Thank you.",five,,
+FB-2184,21 Jun 2026,In-App,sofia.okoro@tidewater.io,Free,EMEA,Would be great to schedule reports weekly instead of manual.,3,0,unassigned
+FB-2286,13 Apr 2026,In-App,ines.alvarez@zenith-partners.com,enterprise,emea,Switched from a competitor and haven't looked back.,5,yes,ALEX.R
+FB-2264,17/02/2026,chat,priya.singh@kestrel.dev,FREE,North America,The annual discount didn't apply at checkout.,2,FALSE,ALEX.R
+FB-2269,04 May 2026,chat,fatima.muller@meridiangroup.co,FREE,emea,Can't find where to download past invoices for accounting.,2/5,yes,unassigned
+FB-2002,2026-02-09T10:56:00Z,chat,sofia.costa@brightlab.io,Enterprise,North America,Page keeps crashing on Safari specifically.,three,yes,ALEX.R
+FB-2201,05-12-2026 07:30,phone,daniel.bauer@tidewater.io,Starter,NA,We need bulk edit. Doing this one by one is painful.,,no,sam.t
+FB-2300,2026-06-28T09:18:00Z,phone,sofia.okoro@zenith-partners.com,PRO,IN,Search is unusably slow since the last update.,3,TRUE,alex.r
+FB-2005,,phone,greg.singh@meridiangroup.co,free,India,We're pausing our subscription until the API ships.,1,No,jo.m
+FB-2293,05-17-2026 00:10,email,olu.singh@tidewater.io,Pro,IN,Export times out whenever we select more than 3 months.,1,,
+FB-2363,06-17-2026 06:39,,theo.patel@meridiangroup.co,Free,APAC,Export times out whenever we select more than 3 months.,2,FALSE,ALEX.R
+FB-2371,2026-03-13T20:33:00Z,support-form,hannah.costa@brightlab.io,FREE,apac,Need role-based permissions before we can roll this out wider.,,1,sam.t
+FB-2238,20 Mar 2026,support-form,nadia.kim at brightlab.io,Starter,NA,Page keeps crashing on Safari specifically.,2,no,ALEX.R
+FB-2205,26 May 2026,,priya.silva@opalhealth.com,Starter,,Dashboard takes 30+ seconds to load every morning.,,1,priya.k
+FB-2081,07-22-2026 20:36,in_app,ines.silva@kestrel.dev,pro,North America,Page keeps crashing on Safari specifically.,2,no,jo.m
+FB-2107,2026-06-11T03:36:00Z,in_app,ines.larsen@tidewater.io,Enterprise,APAC,"Please add a dark mode, my eyes are dying.",3,0,
+FB-2085,2026-02-10T05:32:00Z,in-app,noah.costa@northfield.org,free,India,Support got back to me in 10 minutes. Impressive.,,YES,
+FB-2211,07-24-2026 16:54,in_app,viktor.varga@tidewater.io,starter,,"Onboarding emails came in the wrong order, confusing.",4/5,no,alex.r
+FB-2276,06 Mar 2026,Chat,omar.kim@acmeco.com,Starter,India,App freezes when I filter by more than two tags.,,No,unassigned
+FB-2043,2026-06-12 17:04:00,,luis.kim@acmeco.com,enterprise,EMEA,Need role-based permissions before we can roll this out wider.,3,TRUE,
+FB-2364,11 Jun 2026,In-App,lina.rossi@acmeco.com,starter,apac,Honestly the best tool we've adopted this year. Team loves it.,4,TRUE,
+FB-2160,02/04/2026,phone,zara.silva@vantage.works,FREE,IN,The setup wizard skipped a step and now nothing is connected.,2,yes,unassigned
+FB-2155,2026-07-19T00:21:00Z,phone,dev.kim@opalhealth.com,PRO,APAC,Invoice shows the old plan price even after we upgraded.,2,yes,unassigned
+FB-2024,2026-06-04T21:09:00Z,Chat,hannah.ito@vantage.works,Free,apac,Would be great to schedule reports weekly instead of manual.,3,FALSE,
+FB-2207,09 Jul 2026,email,lina.singh@kestrel.dev,Free,latam,Page keeps crashing on Safari specifically.,3,No,
+FB-2303,2026-05-14 11:51:00,phone,omar.ito@acmeco.com,free,apac,Why did the price go up without any notice?,2,no,
+FB-2023,04-06-2026 18:52,email,hannah.larsen@zenith-partners.com,PRO,apac,Need a GST invoice with our company details on it.,3,No,jo.m
+FB-2066,2026-06-25T12:43:00Z,support-form,fatima.rossi@vantage.works,Starter,NA,Notifications fire twice for every comment.,2,YES,sam.t
+FB-2051,2026-03-15T00:27:00Z,in-app,sam.costa@opalhealth.com,PRO,APAC,Dashboard takes 30+ seconds to load every morning.,2,no,sam.t
+FB-2140,2026-03-19T21:23:00Z,Email,olu.costa@tidewater.io,PRO,apac,"ONBOARDING EMAILS CAME IN THE WRONG ORDER, CONFUSING.",4,No,sam.t
+FB-2097,2026-07-12 07:28:00,support-form,sam.ito@opalhealth.com,Free,LATAM,Page keeps crashing on Safari specifically.,2,,alex.r
+FB-4456,06-23-2026 06:37,,zara.muller@zenith-partners.com,FREE,India,Support got back to me in 10 minutes. Impressive.,,FALSE,sam.t
+FB-2196,15/02/2026,,sam.kim@tidewater.io,Enterprise,apac,Need role-based permissions before we can roll this out wider.,3,YES,
+FB-2268,10/02/2026,chat,marcus.chen@tidewater.io,enterprise,LATAM,No idea what half these settings do. Docs are thin.,,no,unassigned
+FB-2320,04/06/2026,phone,bea.ito@kestrel.dev,pro,North America,We're pausing our subscription until the API ships.,1,TRUE,
+FB-2150,08 May 2026,chat,priya.rossi@opalhealth.com,Free,NA,CARD DECLINED BUT YOU STILL MARKED THE ACCOUNT PAST DUE.,40,1,priya.k
+FB-2349,06-23-2026 14:22,Email,viktor.sharma@tidewater.io,FREE,emea,The setup wizard skipped a step and now nothing is connected.,3,1,sam.t
+FB-2052,2026-03-25 13:53:00,support-form,kenji.silva at tidewater.io,Starter,emea,Any plans for a Slack integration?,60,FALSE,unassigned
+FB-2251,06-23-2026 06:37,,zara.muller@zenith-partners.com,FREE,India,Support got back to me in 10 minutes. Impressive.,,FALSE,sam.t
+FB-2374,04-26-2026 23:19,Email,clara.novak@northfield.org,Pro,North America,No idea what half these settings do. Docs are thin.,4,,jo.m
+FB-2109,27 Jun 2026,phone,amara.sharma@tidewater.io,Free,EMEA,Need role-based permissions before we can roll this out wider.,2,YES,alex.r
+FB-2037,28 May 2026,chat,fatima.patel@northfield.org,starter,latam,Password reset link expired before it even arrived.,2,FALSE,ALEX.R
+FB-2096,05-24-2026 11:29,Email,aisha.bauer@vantage.works,Pro,NA,Why did the price go up without any notice?,2,yes,alex.r
+FB-2113,2026-04-03 12:11:00,in-app,zara.mensah@zenith-partners.com,Free,APAC,CSV export has a trailing empty column that breaks our import.,2,1,sam.t
+FB-2148,2026-04-17 00:36:00,support-form,hannah.larsen@brightlab.io,free,EMEA,Why did the price go up without any notice?,2,FALSE,jo.m
+FB-2240,2026-04-10T11:39:00Z,in-app,marcus.khan@acmeco.com,Starter,emea,CSV export has a trailing empty column that breaks our import.,2/5,0,jo.m
+FB-2312,2026-06-19 00:46:00,Chat,greg.haddad@acmeco.com,starter,emea,Invoice shows the old plan price even after we upgraded.,1,YES,alex.r
+FB-2147,12/05/2026,In-App,fatima.mensah@meridiangroup.co,Starter,NA,Search is unusably slow since the last update.,,FALSE,unassigned
+FB-2055,2026-06-25T01:56:00Z,support-form,clara.silva@opalhealth.com,Free,NA,Card declined but you still marked the account past due.,1,yes,sam.t
+FB-2082,07-17-2026 15:25,email,noah.okoro@fig.studio,pro,India,Special characters in names show up as question marks.,,No,unassigned
+FB-2367,2026-04-25T22:04:00Z,phone,nadia.costa@brightlab.io,Enterprise,North America,Card declined but you still marked the account past due.,1/5,YES,sam.t
+FB-2272,30/06/2026,,priya.mensah@vantage.works,Enterprise,IN,TOOK US THREE DAYS TO GET THE FIRST INTEGRATION WORKING.,,YES,unassigned
+FB-2014,1783802700,support-form,amara.haddad@acmeco.com,pro,North America,Any plans for a Slack integration?,3,No,sam.t
+FB-2083,07-30-2026 19:02,In-App,tomas.rossi@zenith-partners.com,Enterprise,IN,Card declined but you still marked the account past due.,2,,
+FB-2339,2026-07-23T06:27:00Z,in_app,hannah.alvarez at fig.studio,PRO,LATAM,Dashboard takes 30+ seconds to load every morning.,,YES,jo.m
+FB-2259,12/02/2026,,priya.chen@zenith-partners.com,Enterprise,NA,Third outage this quarter. Leadership is asking questions.,1,no,jo.m
+FB-2321,2026-05-12T17:22:00Z,,clara.alvarez@vantage.works,Enterprise,APAC,We need bulk edit. Doing this one by one is painful.,,,sam.t
+FB-2285,07/05/2026,Chat,dev.kim@kestrel.dev,Free,apac,Support got back to me in 10 minutes. Impressive.,5/5,FALSE,priya.k
+FB-2366,03-07-2026 13:32,in_app,luis.costa@tidewater.io,PRO,emea,The new reporting view is exactly what we needed. The new reporting view is exactly what we needed.,5,yes,ALEX.R
+FB-2057,2026-07-19T01:18:00Z,Chat,sam.rossi@vantage.works,FREE,NA,PASSWORD RESET LINK EXPIRED BEFORE IT EVEN ARRIVED.,2,FALSE,ALEX.R
+FB-2048,10/05/2026,in-app,maya.bauer@vantage.works,Enterprise,APAC,Took us three days to get the first integration working.,,No,
+FB-2189,06-14-2026 16:02,phone,bea.khan@opalhealth.com,free,India,Third outage this quarter. Leadership is asking questions.,1,,jo.m
+FB-2385,2026-04-17T21:55:00Z,Email,theo.chen@opalhealth.com,Starter,India,,4/5,TRUE,unassigned
+FB-2104,12 Mar 2026,,kenji.mensah@kestrel.dev,free,LATAM,,3,1,
+FB-2267,18/07/2026,in_app,nadia.chen@opalhealth.com,Enterprise,APAC,An API would unlock a lot for us.,4,TRUE,alex.r
+FB-2045,27 Apr 2026,In-App,viktor.costa@tidewater.io,Pro,EMEA,App freezes when I filter by more than two tags.,2,,unassigned
+FB-2391,18 Mar 2026,Chat,omar.khan@kestrel.dev,enterprise,emea,Cancelled. Too expensive for what we actually use. We're pausing our subscription until the API ships.,1,No,sam.t
+FB-2032,05-25-2026 09:38,in_app,kenji.sharma@vantage.works,enterprise,EMEA,"Onboarding emails came in the wrong order, confusing.",2,TRUE,
+FB-2271,16 Jul 2026,email,ines.chen@brightlab.io,free,apac,Deleted item reappears after refresh.,1/5,0,jo.m
+FB-2347,03-07-2026 21:53,support-form,greg.chen@kestrel.dev,FREE,North America,No idea what half these settings do. Docs are thin.,3/5,1,sam.t
+FB-2218,2026-03-07 05:10:00,phone,fatima.rossi@kestrel.dev,enterprise,,"Uploading a large file just spins forever, no error.",1,YES,ALEX.R
+FB-2194,2026-06-16T07:11:00Z,Chat,zara.costa@acmeco.com,Starter,latam,The setup wizard skipped a step and now nothing is connected.,3,No,ALEX.R
+FB-2136,2026-05-17 12:34:00,Email,theo.mensah@brightlab.io,starter,EMEA,Notifications fire twice for every comment.,2,TRUE,jo.m
+FB-2257,1776759420,,yuki.varga@fig.studio,pro,emea,An API would unlock a lot for us.,3,no,
+FB-2042,19 May 2026,,mei.muller@acmeco.com,Pro,North America,"Timezone is wrong on all timestamps, showing UTC not local.",2,0,priya.k
+FB-2299,2026-03-12T01:33:00Z,chat,dev.varga@northfield.org,Free,India,Mobile app when?,3,yes,alex.r
+FB-2019,07 Feb 2026,email,tomas.khan@opalhealth.com,Enterprise,APAC,Third outage this quarter. Leadership is asking questions.,1,,
+FB-2394,2026-05-04T15:33:00Z,Chat,bea.singh@vantage.works,Free,NA,Spent an hour trying to figure out how to invite my team.,2,YES,ALEX.R
+FB-2031,26 May 2026,,kenji.alvarez@vantage.works,Starter,apac,"Onboarding emails came in the wrong order, confusing.",4,no,ALEX.R
+FB-2296,2026-05-22 07:55:00,Email,theo.alvarez@fig.studio,Free,India,An API would unlock a lot for us.,3,No,alex.r
+FB-2338,28/03/2026,in-app,amara.ito@northfield.org,PRO,emea,Support got back to me in 10 minutes. Impressive.,5,no,
+FB-2199,04-04-2026 02:05,,arjun.muller@vantage.works,pro,apac,"Onboarding emails came in the wrong order, confusing.",3,0,jo.m
+FB-2053,25 May 2026,in-app,nadia.silva@meridiangroup.co,starter,emea,Card declined but you still marked the account past due.,3,0,
+FB-2117,2026-04-13T04:22:00Z,email,rahul.costa@meridiangroup.co,starter,LATAM,Invoice shows the old plan price even after we upgraded.,2,TRUE,ALEX.R
+FB-2377,12/03/2026,Chat,zara.muller@brightlab.io,Enterprise,APAC,"Onboarding emails came in the wrong order, confusing.",3,TRUE,jo.m
+FB-2101,2026-03-15T11:56:00Z,Chat,marcus.khan@tidewater.io,Free,APAC,Card declined but you still marked the account past due.,two,,unassigned
+FB-2221,14/06/2026,in-app,hannah.muller@vantage.works,Starter,emea,"Uploading a large file just spins forever, no error.",2,no,ALEX.R
+FB-2275,09 Feb 2026,in_app,noah.khan@brightlab.io,FREE,NA,Page keeps crashing on Safari specifically.,one,no,sam.t
+FB-2021,2026-03-21 13:55:00,chat,nadia.singh@tidewater.io,enterprise,,Need a GST invoice with our company details on it.,2,no,alex.r
+FB-2200,2026-03-22 13:13:00,Email,lina.ito@fig.studio,free,latam,Page keeps crashing on Safari specifically.,2,TRUE,priya.k
+FB-2305,2026-06-18 02:04:00,in-app,rahul.bauer@acmeco.com,Starter,North America,"Please add a dark mode, my eyes are dying.",4,1,priya.k
+FB-2332,2026-06-12T21:57:00Z,Email,mei.dubois@fig.studio,PRO,India,Page keeps crashing on Safari specifically.,2,0,jo.m
+FB-2169,06-08-2026 20:10,email,luis.mensah@fig.studio,enterprise,EMEA,"Onboarding emails came in the wrong order, confusing.",3,no,
+FB-2015,2026-04-09 00:09:00,In-App,dev.novak@tidewater.io,Free,LATAM,"Uploading a large file just spins forever, no error.",2,1,priya.k
+FB-2041,2026-06-04T21:01:00Z,Email,ines.rossi@northfield.org,enterprise,NA,Dashboard takes 30+ seconds to load every morning.,2,YES,
+FB-2217,2026-07-13 11:27:00,Chat,bea.singh@acmeco.com,enterprise,India,"Got charged twice this month, still waiting on the refund.",,No,unassigned
+FB-2393,06 Jun 2026,Email,zara.dubois@tidewater.io,Pro,apac,Need role-based permissions before we can roll this out wider. Mobile app when?,2,1,alex.r
+FB-2186,,Chat,zara.dubois@northfield.org,FREE,North America,CSV export has a trailing empty column that breaks our import.,2,,
+FB-2090,2026-04-22T21:15:00Z,chat,omar.patel@acmeco.com,pro,NA,Third outage this quarter. Leadership is asking questions.,1,1,
+FB-2071,10 May 2026,support-form,maya.costa@vantage.works,FREE,NA,Would be great to schedule reports weekly instead of manual.,,YES,priya.k
+FB-2241,2026-07-28T21:27:00Z,chat,clara.muller@vantage.works,Starter,APAC,The annual discount didn't apply at checkout.,3,No,ALEX.R
+FB-2260,2026-04-17 17:46:00,Email,rahul.dubois@zenith-partners.com,Enterprise,IN,Search is unusably slow since the last update.,2,No,ALEX.R
+FB-2350,02 May 2026,,olu.khan@zenith-partners.com,PRO,EMEA,Mobile app when?,3,0,
+FB-2133,2026-07-23T13:39:00Z,Chat,,Pro,latam,Password reset link expired before it even arrived.,3,no,priya.k
+FB-2280,2026-05-05 07:49:00,email,arjun.khan@opalhealth.com,Pro,NA,DELETED ITEM REAPPEARS AFTER REFRESH.,2,No,
+FB-2158,2026-03-28 22:32:00,Email,mei.alvarez at tidewater.io,FREE,LATAM,Need a GST invoice with our company details on it.,2,yes,sam.t
+FB-2177,17 Mar 2026,support-form,zara.muller@fig.studio,Pro,emea,Support got back to me in 10 minutes. Impressive.,4/5,,ALEX.R
+FB-2062,02-09-2026 12:08,Chat,theo.okoro@opalhealth.com,FREE,NA,SEARCH IS UNUSABLY SLOW SINCE THE LAST UPDATE.,3,,sam.t
+FB-2171,2026-04-30 23:16:00,phone,tomas.costa at fig.studio,enterprise,APAC,Honestly the best tool we've adopted this year. Team loves it.,,FALSE,jo.m
+FB-2245,06-05-2026 18:16,chat,zara.ito@zenith-partners.com,Enterprise,latam,The setup wizard skipped a step and now nothing is connected.,,yes,alex.r
+FB-2079,06-07-2026 15:08,in-app,marcus.bauer@fig.studio,Starter,APAC,The new reporting view is exactly what we needed.,5,FALSE,priya.k
+FB-2342,2026-02-07T17:01:00Z,,priya.bauer@opalhealth.com,Pro,LATAM,Search is unusably slow since the last update.,3,yes,ALEX.R
+FB-2108,06-30-2026 11:49,,yuki.larsen@opalhealth.com,Free,NA,"Would love a template library, starting from blank is rough.",4,no,alex.r
+FB-2003,05/03/2026,in-app,zara.singh@zenith-partners.com,free,North America,"Onboarding emails came in the wrong order, confusing.",2,FALSE,ALEX.R
+FB-2376,02-13-2026 21:59,chat,marcus.kim@tidewater.io,enterprise,North America,"Please add a dark mode, my eyes are dying.",4,TRUE,
+FB-2373,2026-03-02T03:23:00Z,In-App,ines.khan@meridiangroup.co,free,India,Any plans for a Slack integration?,4,yes,sam.t
+FB-2036,08/06/2026,in_app,daniel.sharma@zenith-partners.com,enterprise,APAC,Dashboard takes 30+ seconds to load every morning.,2,yes,
+FB-2174,16/06/2026,Email,yuki.okoro@zenith-partners.com,Enterprise,emea,App freezes when I filter by more than two tags.,one,yes,ALEX.R
+FB-2223,14/06/2026,chat,luis.patel@acmeco.com,Starter,NA,"Please add a dark mode, my eyes are dying. We need bulk edit. Doing this one by one is painful.",3,YES,
+FB-2152,2026-05-24T15:45:00Z,in_app,yuki.silva@meridiangroup.co,PRO,IN,Support got back to me in 10 minutes. Impressive. The new reporting view is exactly what we needed.,5,YES,
+FB-2226,17/04/2026,in_app,arjun.haddad@brightlab.io,Free,apac,No idea what half these settings do. Docs are thin.,4,no,
+FB-2030,03 Apr 2026,in_app,,pro,NA,"Got charged twice this month, still waiting on the refund.",2/5,no,unassigned
+FB-2132,19 Jun 2026,In-App,arjun.alvarez@brightlab.io,Pro,apac,Why did the price go up without any notice?,2,yes,jo.m
+FB-2070,01/04/2026,,theo.chen@vantage.works,FREE,India,,3,1,ALEX.R
+FB-2137,25 Feb 2026,in-app,bea.sharma@meridiangroup.co,free,latam,"Timezone is wrong on all timestamps, showing UTC not local.",2,0,unassigned
+FB-2383,28/02/2026,email,,starter,,Honestly the best tool we've adopted this year. Team loves it.,4,No,
+FB-2340,2026-06-13 01:45:00,chat,sofia.rossi@vantage.works,Free,IN,"Simple, fast, does the job. Thank you.",5,YES,jo.m
+FB-2348,05/06/2026,email,marcus.kim@tidewater.io,Starter,latam,App freezes when I filter by more than two tags.,,0,jo.m
+FB-2388,2026-04-03 04:08:00,in-app,luis.khan@tidewater.io,FREE,apac,"Timezone is wrong on all timestamps, showing UTC not local.",2,1,
+FB-2265,03-13-2026 21:55,in_app,fatima.alvarez@northfield.org,Starter,emea,"Would love a template library, starting from blank is rough.",3,yes,jo.m
+FB-2157,08/06/2026,in-app,kenji.mensah@meridiangroup.co,FREE,NA,"Please add a dark mode, my eyes are dying.",4,1,alex.r
+FB-2173,2026-05-05 10:07:00,chat,aisha.okoro@zenith-partners.com,Pro,APAC,Export times out whenever we select more than 3 months.,2,No,jo.m
+FB-2386,07/03/2026,chat,HANNAH.DUBOIS@TIDEWATER.IO,enterprise,NA,Search is unusably slow since the last update.,1,No,
+FB-2281,21/03/2026,in-app,viktor.novak@opalhealth.com,Enterprise,IN,"Evaluating alternatives, this isn't working for our team.",1,FALSE,jo.m
+FB-2166,06-03-2026 07:28,Chat,maya.chen@tidewater.io,PRO,latam,An API would unlock a lot for us.,three,,jo.m
+FB-2180,02-27-2026 14:49,support-form,priya.patel@kestrel.dev,Pro,LATAM,No idea what half these settings do. Docs are thin.,3,no,ALEX.R
+FB-2094,2026-05-27T00:57:00Z,chat,viktor.novak@opalhealth.com,pro,EMEA,"Uploading a large file just spins forever, no error.",2/5,yes,jo.m
+FB-2235,05-28-2026 22:36,phone,luis.chen@fig.studio,Pro,IN,Export times out whenever we select more than 3 months.,2,no,alex.r
+FB-2336,2026-02-09 00:26:00,Email,greg.muller@zenith-partners.com,free,,If the export issue isn't fixed by renewal we're moving on.,1,no,priya.k
+FB-2080,2026-03-07 13:25:00,Chat,dev.singh@fig.studio,PRO,North America,Would be great to schedule reports weekly instead of manual.,3,YES,unassigned
+FB-2141,2026-05-13T00:49:00Z,Email,zara.khan@vantage.works,pro,North America,CSV export has a trailing empty column that breaks our import.,1,1,ALEX.R
+FB-2103,2026-06-09 05:14:00,In-App,clara.ito@acmeco.com,Starter,India,"Simple, fast, does the job. Thank you.",5,No,priya.k
+FB-2379,2026-07-08 17:48:00,,maya.haddad@opalhealth.com,enterprise,,"Please add a dark mode, my eyes are dying.",2,yes,jo.m
+FB-2102,2026-04-09 15:28:00,email,clara.larsen@kestrel.dev,PRO,latam,Any plans for a Slack integration?,3,yes,alex.r
+FB-2040,2026-07-11 02:54:00,Chat,priya.mensah@brightlab.io,Pro,,"Evaluating alternatives, this isn't working for our team.",2,FALSE,priya.k
+FB-2237,28 Mar 2026,Email,sam.varga@kestrel.dev,starter,LATAM,Would be great to schedule reports weekly instead of manual.,3,FALSE,ALEX.R
+FB-2145,13 Jun 2026,Email,daniel.rossi@tidewater.io,Enterprise,apac,Export times out whenever we select more than 3 months.,3,yes,alex.r
+FB-2380,2026-05-06 13:18:00,In-App,zara.mensah@brightlab.io,pro,emea,Can't find where to download past invoices for accounting.,,FALSE,unassigned
+FB-4981,03 Apr 2026,Chat,daniel.patel@fig.studio,free,LATAM,Need role-based permissions before we can roll this out wider.,4/5,yes,alex.r
+FB-2001,2026-02-12 17:12:00,Chat,arjun.muller@vantage.works,starter,emea,Would be great to schedule reports weekly instead of manual.,2,0,jo.m
+FB-2266,2026-04-07 13:53:00,in-app,tomas.larsen@zenith-partners.com,free,India,Third outage this quarter. Leadership is asking questions.,2,no,sam.t
+FB-2012,25 Apr 2026,in_app,amara.alvarez@meridiangroup.co,Starter,LATAM,"Timezone is wrong on all timestamps, showing UTC not local.",1,TRUE,jo.m
+FB-2114,2026-04-12 13:16:00,In-App,tomas.novak@vantage.works,Starter,EMEA,"Timezone is wrong on all timestamps, showing UTC not local.",3,no,jo.m
+FB-2316,05 Jul 2026,in-app,rahul.ito@opalhealth.com,Pro,APAC,The annual discount didn't apply at checkout.,3,YES,unassigned
+FB-4910,2026-04-22T21:15:00Z,chat,omar.patel@acmeco.com,pro,NA,Third outage this quarter. Leadership is asking questions.,1,1,
+FB-2220,12 Jul 2026,in_app,,starter,NA,No idea what half these settings do. Docs are thin. No idea what half these settings do. Docs are thin.,3,,
+FB-2307,14/06/2026,Chat,priya.bauer@fig.studio,Free,IN,An API would unlock a lot for us.,3,YES,unassigned
+FB-2227,2026-06-26T11:02:00Z,Chat,olu.singh@fig.studio,Pro,latam,Would be great to schedule reports weekly instead of manual.,2,No,ALEX.R
+FB-2123,06-17-2026 14:39,Email,theo.novak@meridiangroup.co,Pro,IN,Export times out whenever we select more than 3 months.,,FALSE,sam.t
+FB-2284,27/02/2026,support-form,hannah.sharma@meridiangroup.co,free,India,"Simple, fast, does the job. Thank you.",five,YES,
+FB-2294,11/03/2026,in-app,tomas.dubois@opalhealth.com,FREE,APAC,"Got charged twice this month, still waiting on the refund.",3,no,unassigned
+FB-2324,2026-06-29 18:09:00,In-App,ines.haddad@acmeco.com,free,IN,Took us three days to get the first integration working.,3,1,sam.t
+FB-2352,16 Jul 2026,email,kenji.novak@kestrel.dev,Enterprise,,,2,No,
+FB-2050,2026-02-19 05:47:00,in-app,marcus.khan at vantage.works,Starter,latam,The annual discount didn't apply at checkout.,2,1,sam.t
+FB-2188,29 Mar 2026,email,dev.muller@zenith-partners.com,starter,EMEA,Why did the price go up without any notice?,2,TRUE,priya.k
+FB-2353,2026-06-12 03:39:00,chat,yuki.haddad@zenith-partners.com,pro,latam,SEARCH IS UNUSABLY SLOW SINCE THE LAST UPDATE.,1,,unassigned
+FB-2256,11 Mar 2026,phone,arjun.dubois@tidewater.io,Starter,NA,The setup wizard skipped a step and now nothing is connected.,,no,
+FB-2204,2026-07-02 19:18:00,phone,aisha.silva@kestrel.dev,enterprise,,Notifications fire twice for every comment.,,FALSE,
+FB-2193,02-19-2026 17:09,chat,sofia.patel@fig.studio,pro,APAC,Honestly the best tool we've adopted this year. Team loves it.,5,No,jo.m
+FB-2224,06/02/2026,email,aisha.costa@meridiangroup.co,starter,emea,Need role-based permissions before we can roll this out wider.,2,1,alex.r
+FB-2118,2026-03-14T18:11:00Z,Chat,greg.larsen@tidewater.io,Pro,APAC,Took us three days to get the first integration working.,,no,sam.t
+FB-2064,05-10-2026 00:59,in_app,ines.chen@tidewater.io,enterprise,India,"Onboarding emails came in the wrong order, confusing.",,FALSE,priya.k
+FB-2009,04-08-2026 04:37,in-app,noah.khan@kestrel.dev,Starter,apac,"Would love a template library, starting from blank is rough.",60,1,alex.r
+FB-2098,02-08-2026 17:53,chat,MEI.SINGH@KESTREL.DEV,pro,latam,Would be great to schedule reports weekly instead of manual. Mobile app when?,3,1,priya.k
+FB-2361,2026-05-27T00:24:00Z,phone,tomas.mensah@zenith-partners.com,pro,latam,Card declined but you still marked the account past due.,1,TRUE,alex.r
+FB-2203,22 May 2026,chat,hannah.singh@meridiangroup.co,Starter,IN,Export times out whenever we select more than 3 months.,1,yes,
+FB-2291,2026-07-20T05:26:00Z,Email,luis.alvarez@fig.studio,Starter,APAC,Page keeps crashing on Safari specifically.,2,TRUE,priya.k
+FB-2026,22 Feb 2026,phone,sofia.larsen@acmeco.com,free,NA,"Please add a dark mode, my eyes are dying.",3,TRUE,sam.t
+FB-2310,2026-07-14T20:10:00Z,support-form,ines.silva@meridiangroup.co,Pro,IN,Any plans for a Slack integration?,2,no,
+FB-2089,2026-07-08T13:27:00Z,phone,clara.costa@vantage.works,PRO,India,"Please add a dark mode, my eyes are dying.",3,YES,alex.r
+FB-2308,07-14-2026 17:54,In-App,greg.larsen@vantage.works,Enterprise,apac,"Got charged twice this month, still waiting on the refund.",2,FALSE,ALEX.R
+FB-2290,2026-05-05 09:43:00,support-form,tomas.okoro@zenith-partners.com,Starter,emea,An API would unlock a lot for us.,3,1,priya.k
+FB-4322,19 May 2026,,mei.muller@acmeco.com,Pro,North America,"Timezone is wrong on all timestamps, showing UTC not local.",2,0,priya.k
+FB-2105,07-01-2026 05:52,Email,sofia.okoro@vantage.works,starter,,"Would love a template library, starting from blank is rough.",2,,jo.m
+FB-2278,02/03/2026,,daniel.bauer@opalhealth.com,starter,IN,Page keeps crashing on Safari specifically.,2,yes,ALEX.R
+FB-2325,18 Feb 2026,in_app,greg.bauer@acmeco.com,Pro,EMEA,Export times out whenever we select more than 3 months.,2,0,priya.k
+FB-2183,05 Jul 2026,Chat,marcus.singh@tidewater.io,Starter,India,"Onboarding emails came in the wrong order, confusing.",4,FALSE,unassigned
+FB-2297,11/02/2026,In-App,zara.bauer@acmeco.com,PRO,EMEA,Password reset link expired before it even arrived.,3,no,alex.r
+FB-2060,06 Feb 2026,in-app,nadia.sharma@brightlab.io,starter,APAC,Password reset link expired before it even arrived.,2,TRUE,priya.k
+FB-2033,2026-02-14 08:41:00,email,dev.alvarez@acmeco.com,pro,IN,Page keeps crashing on Safari specifically.,2,No,sam.t
+FB-2243,28 May 2026,,noah.novak@meridiangroup.co,FREE,NA,The annual discount didn't apply at checkout.,2,,ALEX.R
+FB-2215,04-25-2026 17:13,in_app,theo.mensah@kestrel.dev,Starter,IN,Search is unusably slow since the last update.,40,yes,
+FB-2115,2026-06-13T17:59:00Z,in-app,INES.NOVAK@MERIDIANGROUP.CO,pro,North America,"Please add a dark mode, my eyes are dying.",3,0,
+FB-2156,2026-02-22 11:24:00,in_app,yuki.silva@meridiangroup.co,starter,EMEA,"ONBOARDING EMAILS CAME IN THE WRONG ORDER, CONFUSING.",3,,ALEX.R
+FB-2047,15 Jun 2026,Chat,bea.bauer@kestrel.dev,pro,emea,Cancelled. Too expensive for what we actually use.,1,yes,priya.k
+FB-2282,2026-04-07T07:18:00Z,,aisha.okoro@acmeco.com,PRO,NA,Why did the price go up without any notice?,2,FALSE,sam.t
+FB-2381,25 Jun 2026,chat,sofia.costa@tidewater.io,pro,apac,"Onboarding emails came in the wrong order, confusing.",2,TRUE,
+FB-2029,07-17-2026 23:13,chat,daniel.dubois@opalhealth.com,pro,EMEA,Mobile app when?,3,TRUE,alex.r
+FB-2076,05/04/2026,In-App,mei.varga@acmeco.com,Pro,apac,Would be great to schedule reports weekly instead of manual.,3,,jo.m
+FB-2067,04-07-2026 20:07,in-app,,Free,APAC,,2,yes,unassigned
+FB-2214,04-25-2026 03:35,in-app,sofia.bauer@northfield.org,PRO,,Notifications fire twice for every comment.,2,TRUE,
+FB-2139,11 Jun 2026,email,bea.larsen@tidewater.io,PRO,LATAM,Export times out whenever we select more than 3 months.,40,yes,
+FB-2202,2026-07-24T02:11:00Z,Chat,,Free,latam,"Evaluating alternatives, this isn't working for our team.",2,1,unassigned
+FB-2346,2026-02-04T18:09:00Z,email,olu.kim@opalhealth.com,pro,India,"Please add a dark mode, my eyes are dying.",3,TRUE,jo.m
+FB-2072,02-09-2026 04:50,email,fatima.khan@brightlab.io,Pro,LATAM,Search is unusably slow since the last update.,40,FALSE,sam.t
+FB-2337,2026-02-14 03:40:00,Email,yuki.dubois@meridiangroup.co,starter,India,Spent an hour trying to figure out how to invite my team.,2,1,
+FB-2058,06 Apr 2026,phone,rahul.silva@zenith-partners.com,FREE,,,,No,priya.k
+FB-2341,2026-03-23 01:29:00,Chat,omar.singh@kestrel.dev,starter,India,NEED ROLE-BASED PERMISSIONS BEFORE WE CAN ROLL THIS OUT WIDER.,4,yes,priya.k
+FB-2142,02/05/2026,Email,arjun.muller@zenith-partners.com,Free,emea,Notifications fire twice for every comment.,3,yes,
+FB-4646,04-06-2026 18:52,email,hannah.larsen@zenith-partners.com,PRO,apac,Need a GST invoice with our company details on it.,3,No,jo.m
+FB-2225,05 May 2026,chat,bea.okoro@brightlab.io,Enterprise,LATAM,"Timezone is wrong on all timestamps, showing UTC not local.",1,,sam.t
+FB-2095,2026-03-16 09:43:00,chat,ines.dubois at zenith-partners.com,FREE,North America,"WOULD LOVE A TEMPLATE LIBRARY, STARTING FROM BLANK IS ROUGH.",3,1,unassigned
+FB-2396,2026-07-23T22:53:00Z,chat,olu.bauer@tidewater.io,PRO,emea,"Uploading a large file just spins forever, no error.",3,1,ALEX.R
+FB-2313,15/02/2026,email,olu.ito@kestrel.dev,starter,latam,"Onboarding emails came in the wrong order, confusing.",3,FALSE,sam.t
+FB-2261,02 Feb 2026,In-App,lina.muller@zenith-partners.com,FREE,NA,Spent an hour trying to figure out how to invite my team.,3,yes,
+FB-2028,04 Feb 2026,in_app,bea.okoro@opalhealth.com,free,LATAM,We're pausing our subscription until the API ships.,1,1,
+FB-2378,12/05/2026,support-form,marcus.patel@kestrel.dev,Free,APAC,Any plans for a Slack integration?,3,TRUE,sam.t
+FB-2387,06-27-2026 10:20,,ines.silva@acmeco.com,Free,APAC,"Got charged twice this month, still waiting on the refund.",3,no,priya.k
+FB-2161,21/02/2026,in_app,bea.alvarez@acmeco.com,FREE,LATAM,The annual discount didn't apply at checkout.,1,no,alex.r
+FB-2279,02-16-2026 14:40,in_app,noah.alvarez@kestrel.dev,free,APAC,,2,TRUE,jo.m
+FB-2124,2026-07-21 14:23:00,Chat,,PRO,LATAM,Search is unusably slow since the last update.,one,TRUE,alex.r
+FB-2178,2026-04-26 11:31:00,in_app,bea.sharma@meridiangroup.co,pro,LATAM,"Please add a dark mode, my eyes are dying.",4,,jo.m
+FB-2234,02 Jun 2026,,viktor.chen@tidewater.io,starter,NA,Support got back to me in 10 minutes. Impressive.,5,FALSE,unassigned
+FB-2306,06 Mar 2026,in-app,theo.muller@meridiangroup.co,PRO,latam,Special characters in names show up as question marks.,2,no,jo.m
+FB-2360,02-27-2026 14:24,chat,maya.costa@brightlab.io,enterprise,,Page keeps crashing on Safari specifically.,2,yes,jo.m
+FB-2153,07-27-2026 04:41,chat,marcus.mensah@northfield.org,Enterprise,IN,Spent an hour trying to figure out how to invite my team.,2,TRUE,unassigned
+FB-2099,23/07/2026,chat,,Enterprise,latam,,5,,unassigned
+FB-2344,2026-04-27 19:22:00,support-form,yuki.dubois@acmeco.com,enterprise,EMEA,"Please add a dark mode, my eyes are dying.",3,,ALEX.R
+FB-2242,01/07/2026,chat,luis.khan@fig.studio,enterprise,North America,No idea what half these settings do. Docs are thin.,3,TRUE,sam.t
+FB-2326,10 Apr 2026,in-app,maya.novak@acmeco.com,Free,IN,Special characters in names show up as question marks.,2,1,unassigned
+FB-2335,21/05/2026,,kenji.okoro@kestrel.dev,starter,EMEA,The annual discount didn't apply at checkout.,,yes,
+FB-2372,07/04/2026,support-form,dev.ito@brightlab.io,Free,NA,Deleted item reappears after refresh.,,no,
+FB-2126,2026-03-25T14:38:00Z,In-App,bea.khan@northfield.org,Enterprise,North America,An API would unlock a lot for us.,2,YES,
+FB-2138,05-08-2026 23:52,phone,daniel.varga@northfield.org,Free,apac,Why did the price go up without any notice?,2,no,alex.r
+FB-2357,12 Jul 2026,Chat,maya.sharma@opalhealth.com,pro,IN,,2,YES,jo.m
+FB-2318,04-30-2026 07:53,Chat,tomas.rossi@tidewater.io,Enterprise,APAC,Took us three days to get the first integration working.,,1,ALEX.R
+FB-2049,07-11-2026 15:35,support-form,sofia.chen@northfield.org,Starter,IN,App freezes when I filter by more than two tags.,1,TRUE,jo.m
+FB-2254,05-25-2026 00:08,phone,kenji.muller@vantage.works,PRO,India,The new reporting view is exactly what we needed.,,FALSE,jo.m
+FB-2013,2026-06-16 05:16:00,support-form,rahul.sharma@vantage.works,free,IN,"Would love a template library, starting from blank is rough.",,No,unassigned
+FB-2191,2026-03-09 10:28:00,Email,,Pro,EMEA,Deleted item reappears after refresh.,2,FALSE,jo.m
+FB-2091,04-22-2026 14:29,in-app,olu.costa@brightlab.io,Free,,Why did the price go up without any notice?,,no,
+FB-2125,,in_app,maya.muller@kestrel.dev,Enterprise,apac,"Got charged twice this month, still waiting on the refund.",1,yes,
+FB-2006,05-27-2026 23:07,,maya.alvarez@northfield.org,starter,apac,Search is unusably slow since the last update.,2,1,priya.k
+FB-2311,2026-02-08T22:50:00Z,email,dev.larsen@fig.studio,free,apac,The annual discount didn't apply at checkout.,2,0,jo.m
+FB-2128,22 Feb 2026,phone,sofia.sharma@zenith-partners.com,Pro,North America,We're pausing our subscription until the API ships.,one,0,
+FB-2088,02 Jun 2026,in-app,amara.kim@vantage.works,pro,apac,Why did the price go up without any notice?,2,FALSE,
+FB-2046,2026-06-04T00:09:00Z,Chat,,PRO,North America,We need bulk edit. Doing this one by one is painful.,3,no,alex.r
+FB-2084,2026-06-05T23:01:00Z,support-form,daniel.ito@opalhealth.com,Free,latam,The setup wizard skipped a step and now nothing is connected.,,TRUE,alex.r
+FB-2247,2026-04-22T07:31:00Z,chat,yuki.alvarez@kestrel.dev,free,latam,Spent an hour trying to figure out how to invite my team.,3,yes,sam.t
+FB-2134,05-28-2026 19:09,Email,sam.singh@acmeco.com,FREE,latam,Deleted item reappears after refresh.,2,YES,alex.r
+FB-2063,2026-07-14 15:48:00,support-form,sam.costa@tidewater.io,Pro,LATAM,Invoice shows the old plan price even after we upgraded.,3,no,
+FB-2054,03-22-2026 11:26,Email,dev.rossi@fig.studio,pro,,CSV export has a trailing empty column that breaks our import.,2,No,unassigned
+FB-2358,26/07/2026,,mei.khan@tidewater.io,Pro,EMEA,Need role-based permissions before we can roll this out wider.,4,1,sam.t
+FB-2329,2026-04-12T23:15:00Z,Chat,ines.alvarez@acmeco.com,Enterprise,APAC,App freezes when I filter by more than two tags.,1,,
+FB-2116,2026-03-05T06:22:00Z,support-form,zara.singh@acmeco.com,free,North America,An API would unlock a lot for us.,3,FALSE,jo.m
+FB-2292,02 Jun 2026,In-App,tomas.rossi@tidewater.io,FREE,North America,If the export issue isn't fixed by renewal we're moving on.,1,,
+FB-2301,03-29-2026 10:23,In-App,mei.bauer@vantage.works,Free,India,"Timezone is wrong on all timestamps, showing UTC not local.",2,,ALEX.R
+FB-2185,05-28-2026 18:15,In-App,tomas.sharma@northfield.org,Starter,latam,We need bulk edit. Doing this one by one is painful.,60,No,alex.r
+FB-2315,01/03/2026,Email,mei.varga@brightlab.io,free,IN,Mobile app when?,3,no,
+FB-2229,10 Jul 2026,in_app,maya.okoro@acmeco.com,Pro,North America,"Timezone is wrong on all timestamps, showing UTC not local.",2,0,ALEX.R
+FB-2163,15/04/2026,Email,theo.khan@kestrel.dev,Free,APAC,"Uploading a large file just spins forever, no error.",1,yes,unassigned
+FB-2355,03-10-2026 22:28,In-App,lina.singh@tidewater.io,enterprise,IN,Page keeps crashing on Safari specifically.,2,1,alex.r
+FB-2309,2026-05-06 16:37:00,In-App,aisha.costa@brightlab.io,PRO,North America,"Got charged twice this month, still waiting on the refund.",2,No,
+FB-2059,2026-06-05 12:07:00,in_app,arjun.alvarez@kestrel.dev,starter,,We're pausing our subscription until the API ships.,,0,priya.k
+FB-2154,2026-02-26T10:58:00Z,Email,greg.alvarez@brightlab.io,starter,EMEA,Can't find where to download past invoices for accounting.,3,TRUE,
+FB-2121,05-21-2026 02:40,in-app,ines.larsen@fig.studio,Enterprise,LATAM,Support got back to me in 10 minutes. Impressive.,4/5,No,ALEX.R
+FB-2039,04-17-2026 01:19,,zara.novak@fig.studio,PRO,India,Took us three days to get the first integration working.,3,yes,jo.m
+FB-2025,06-15-2026 06:41,In-App,noah.singh@kestrel.dev,PRO,India,Honestly the best tool we've adopted this year. Team loves it.,5,YES,sam.t
+FB-2351,07/06/2026,chat,greg.silva@acmeco.com,Starter,apac,Took us three days to get the first integration working.,2,TRUE,
+FB-2016,2026-05-15T17:28:00Z,in_app,rahul.haddad@kestrel.dev,starter,North America,Mobile app when?,2,FALSE,alex.r
+FB-2027,23/03/2026,chat,sam.bauer@tidewater.io,starter,latam,Mobile app when?,3,TRUE,priya.k
+FB-2381,25 Jun 2026,chat,sofia.costa@tidewater.io,pro,apac,"Onboarding emails came in the wrong order, confusing.",2,TRUE,
+FB-2370,2026-03-17T16:22:00Z,Email,aisha.okoro@acmeco.com,enterprise,EMEA,Support got back to me in 10 minutes. Impressive.,4/5,TRUE,jo.m
+FB-2249,01 May 2026,support-form,kenji.kim@kestrel.dev,pro,,Need a GST invoice with our company details on it.,2,,sam.t
+FB-2283,10 Jul 2026,chat,amara.larsen@vantage.works,FREE,apac,An API would unlock a lot for us.,3/5,,priya.k
+FB-2345,09/05/2026,In-App,yuki.kim@zenith-partners.com,PRO,EMEA,The setup wizard skipped a step and now nothing is connected.,3,,sam.t
+FB-2120,10 May 2026,,noah.singh@brightlab.io,free,latam,"Timezone is wrong on all timestamps, showing UTC not local.",2,0,sam.t
+FB-2167,04-07-2026 04:53,phone,bea.silva@zenith-partners.com,Enterprise,APAC,"Timezone is wrong on all timestamps, showing UTC not local.",2,yes,unassigned
+FB-2119,2026-03-19 22:19:00,,MEI.ALVAREZ@ZENITH-PARTNERS.COM,enterprise,LATAM,Page keeps crashing on Safari specifically.,2,0,jo.m
+FB-2038,03 Apr 2026,Chat,daniel.patel@fig.studio,free,LATAM,Need role-based permissions before we can roll this out wider.,4/5,yes,alex.r
+FB-2111,12 Jun 2026,in_app,fatima.alvarez@northfield.org,FREE,EMEA,If the export issue isn't fixed by renewal we're moving on.,1,TRUE,alex.r
+FB-2187,13 Apr 2026,email,zara.bauer@meridiangroup.co,pro,,Dashboard takes 30+ seconds to load every morning.,2,No,priya.k
+FB-2270,06 Jul 2026,phone,marcus.costa@northfield.org,Starter,NA,Spent an hour trying to figure out how to invite my team.,3,No,unassigned
+FB-2165,2026-07-21T08:25:00Z,In-App,nadia.chen@northfield.org,FREE,IN,"Timezone is wrong on all timestamps, showing UTC not local.",2,YES,ALEX.R
+FB-2323,09 Mar 2026,email,omar.silva@brightlab.io,Pro,latam,Cancelled. Too expensive for what we actually use.,1,,
+FB-2368,07/03/2026,support-form,tomas.bauer@kestrel.dev,PRO,LATAM,Can't find where to download past invoices for accounting.,2,1,jo.m
+FB-2195,24/05/2026,Email,nadia.sharma@acmeco.com,Free,,CSV export has a trailing empty column that breaks our import.,2,YES,
+FB-2179,10/05/2026,chat,greg.muller@zenith-partners.com,Pro,apac,Cancelled. Too expensive for what we actually use.,1,yes,sam.t
+FB-2143,03-15-2026 00:15,chat,daniel.varga@brightlab.io,FREE,LATAM,We need bulk edit. Doing this one by one is painful.,3,YES,sam.t
+FB-4599,31/05/2026,support-form,hannah.larsen@acmeco.com,starter,India,The annual discount didn't apply at checkout.,2,FALSE,priya.k
+FB-2330,2026-07-01 21:49:00,chat,amara.khan@fig.studio,Free,,Need role-based permissions before we can roll this out wider.,3,TRUE,jo.m
+FB-2106,2026-03-13T21:57:00Z,Chat,bea.sharma@tidewater.io,enterprise,NA,The annual discount didn't apply at checkout.,3,TRUE,
+FB-2228,06-05-2026 23:29,,noah.mensah@vantage.works,free,emea,"Timezone is wrong on all timestamps, showing UTC not local. Timezone is wrong on all timestamps, showing UTC not local.",3,TRUE,
+FB-2231,13/03/2026,,olu.patel@kestrel.dev,PRO,LATAM,We need bulk edit. Doing this one by one is painful.,4,no,jo.m
+FB-2274,16/06/2026,phone,ines.chen@acmeco.com,Starter,latam,Dashboard takes 30+ seconds to load every morning.,3,no,alex.r
+FB-2209,09/04/2026,Email,zara.okoro@kestrel.dev,free,EMEA,If the export issue isn't fixed by renewal we're moving on.,1,no,ALEX.R
+FB-2233,05-12-2026 10:04,email,bea.silva@fig.studio,free,emea,"Evaluating alternatives, this isn't working for our team.",,1,sam.t
+FB-4155,06-27-2026 01:33,in-app,sam.dubois@tidewater.io,enterprise,apac,No idea what half these settings do. Docs are thin.,3,0,ALEX.R
+FB-2176,2026-07-07T18:01:00Z,email,clara.singh@kestrel.dev,enterprise,emea,Notifications fire twice for every comment.,2/5,,
+FB-2068,2026-02-10 19:54:00,chat,amara.novak@meridiangroup.co,FREE,North America,"Would love a template library, starting from blank is rough.",three,TRUE,jo.m
+FB-2359,2026-07-26 00:12:00,support-form,maya.alvarez@zenith-partners.com,Pro,latam,Export times out whenever we select more than 3 months.,3,YES,ALEX.R
+FB-2213,2026-05-30T23:12:00Z,in_app,lina.singh@acmeco.com,pro,LATAM,"Please add a dark mode, my eyes are dying.",4,no,alex.r
+FB-2317,02 Apr 2026,chat,mei.khan@zenith-partners.com,FREE,,The setup wizard skipped a step and now nothing is connected.,3,0,unassigned
+FB-2061,2026-03-02 12:37:00,In-App,amara.singh@zenith-partners.com,Pro,EMEA,Why did the price go up without any notice?,three,No,unassigned
+FB-2007,21/07/2026,,fatima.kim@meridiangroup.co,pro,LATAM,Support got back to me in 10 minutes. Impressive.,5,,sam.t
+FB-2135,2026-07-21T06:29:00Z,phone,nadia.khan@northfield.org,enterprise,LATAM,"Uploading a large file just spins forever, no error.",two,no,priya.k
+FB-4270,2026-06-26T11:02:00Z,Chat,olu.singh@fig.studio,Pro,latam,Would be great to schedule reports weekly instead of manual.,2,No,ALEX.R
+FB-2392,06-04-2026 18:01,Chat,zara.novak@opalhealth.com,pro,EMEA,Special characters in names show up as question marks.,3,YES,
+FB-2129,04-18-2026 05:57,phone,fatima.varga@fig.studio,Starter,IN,"Got charged twice this month, still waiting on the refund.",2,TRUE,
+FB-2192,2026-05-21 21:46:00,support-form,ines.khan@opalhealth.com,Free,IN,We need bulk edit. Doing this one by one is painful.,3,yes,unassigned
+FB-2197,12 Mar 2026,email,fatima.khan at northfield.org,enterprise,APAC,Mobile app when?,60,TRUE,unassigned
+FB-2224,06/02/2026,email,aisha.costa@meridiangroup.co,starter,emea,Need role-based permissions before we can roll this out wider.,2,1,alex.r
+FB-2100,2026-06-10T06:09:00Z,email,luis.bauer@tidewater.io,free,India,Need role-based permissions before we can roll this out wider.,3,,sam.t
+FB-2073,2026-07-02 03:15:00,in-app,greg.chen@vantage.works,Enterprise,latam,"Please add a dark mode, my eyes are dying.",4,0,sam.t
+FB-2122,04-01-2026 10:13,support-form,kenji.singh@kestrel.dev,starter,IN,Password reset link expired before it even arrived.,2,0,
