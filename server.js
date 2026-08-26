@@ -65,21 +65,6 @@ function getIssue(message) {
 
 app.use(express.static(path.join(__dirname, "public")));
 
-// Reads the feedback CSV and sends it to the frontend.
-/* app.get("/api/feedback", (req, res) => {
-  const feedback = [];
-
-  fs.createReadStream(
-    path.join(__dirname, "data", DATA_FILE)
-  )
-    .pipe(csv())
-    .on("data", (row) => {
-      feedback.push(row);
-    })
-    .on("end", () => {
-      res.json(feedback);
-    });
-}); */
 
 app.get("/api/summary", (req, res) => {
   const feedback = [];
