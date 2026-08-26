@@ -62,7 +62,7 @@ function getIssue(message) {
   return "Unclassified feedback";
 }
 
-// Lets the browser access files inside the public folder.
+
 app.use(express.static(path.join(__dirname, "public")));
 
 // Reads the feedback CSV and sends it to the frontend.
